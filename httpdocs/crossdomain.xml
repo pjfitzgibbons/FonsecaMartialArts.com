@@ -1,0 +1,4 @@
+<cross-domain-policy>
+   <allow-access-from domain="fma.slideshowpro.com" />
+   <allow-access-from domain="slideshowpro.com" />
+</cross-domain-policy>

@@ -1,0 +1,91 @@
+.footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+a.footer {
+	text-decoration: underline;
+}
+a.footer:hover {
+	text-decoration: none;
+}
+
+.bodylink {
+	text-decoration: underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #E41715;
+}
+a.bodylink:hover {
+	text-decoration: none;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #E41715;
+}
+.background {
+	background-repeat: no-repeat;
+}
+.background_left {
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.seminarstable {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: 120%;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: none;
+	padding:2;
+}.red_bold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #E41715;
+}
+.body_bg {
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.styles {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+.styleslink {
+	text-decoration: underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #E41715;
+}
+a.styleslink:hover {
+	text-decoration: none;
+}
+.homelink {
+	text-decoration: underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+a.homelink:hover {
+	text-decoration: none;
+}
+.gallerylinkheader {
+	text-decoration: underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+a.gallerylinkheader:hover {
+	text-decoration: none;
+}
+a.gallerylinkheader:visited {
+	color: #333333;
+
+}
